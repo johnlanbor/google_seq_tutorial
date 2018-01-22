@@ -1,0 +1,22 @@
+# log_file=./tmp/nmt_model/log_1516621332
+# Start step 0, lr 1, Mon Jan 22 19:42:19 2018
+  step 100 lr 1 step-time 0.29s wps 19.07K ppl 1975.71 gN 16.22 bleu 0.00, Mon Jan 22 19:42:48 2018
+  step 200 lr 1 step-time 0.24s wps 23.58K ppl 611.88 gN 7.83 bleu 0.00, Mon Jan 22 19:43:12 2018
+  step 300 lr 1 step-time 0.24s wps 23.34K ppl 397.66 gN 5.44 bleu 0.00, Mon Jan 22 19:43:37 2018
+  step 400 lr 1 step-time 0.24s wps 23.50K ppl 275.38 gN 4.05 bleu 0.00, Mon Jan 22 19:44:00 2018
+  step 500 lr 1 step-time 0.24s wps 23.45K ppl 225.48 gN 3.64 bleu 0.00, Mon Jan 22 19:44:24 2018
+  step 600 lr 1 step-time 0.24s wps 23.62K ppl 197.29 gN 3.68 bleu 0.00, Mon Jan 22 19:44:48 2018
+  step 700 lr 1 step-time 0.24s wps 23.24K ppl 177.81 gN 3.05 bleu 0.00, Mon Jan 22 19:45:13 2018
+  step 800 lr 1 step-time 0.24s wps 23.52K ppl 163.34 gN 3.18 bleu 0.00, Mon Jan 22 19:45:37 2018
+  step 900 lr 1 step-time 0.24s wps 23.46K ppl 150.07 gN 3.13 bleu 0.00, Mon Jan 22 19:46:01 2018
+  step 1000 lr 1 step-time 0.23s wps 23.43K ppl 141.01 gN 3.05 bleu 0.00, Mon Jan 22 19:46:24 2018
+  step 1100 lr 1 step-time 0.29s wps 19.13K ppl 135.39 gN 3.22 bleu 0.90, Mon Jan 22 19:47:41 2018
+  step 1200 lr 1 step-time 0.23s wps 23.55K ppl 124.00 gN 2.84 bleu 0.90, Mon Jan 22 19:48:05 2018
+  step 1300 lr 1 step-time 0.24s wps 23.46K ppl 121.89 gN 2.96 bleu 0.90, Mon Jan 22 19:48:29 2018
+  step 1400 lr 1 step-time 0.24s wps 23.77K ppl 117.50 gN 2.92 bleu 0.90, Mon Jan 22 19:48:52 2018
+  step 1500 lr 1 step-time 0.24s wps 23.52K ppl 112.05 gN 2.65 bleu 0.90, Mon Jan 22 19:49:16 2018
+  step 1600 lr 1 step-time 0.24s wps 23.38K ppl 111.44 gN 2.91 bleu 0.90, Mon Jan 22 19:49:40 2018
+  step 1700 lr 1 step-time 0.24s wps 23.56K ppl 108.12 gN 2.88 bleu 0.90, Mon Jan 22 19:50:04 2018
+  step 1800 lr 1 step-time 0.24s wps 23.64K ppl 103.57 gN 2.78 bleu 0.90, Mon Jan 22 19:50:28 2018
+  step 1900 lr 1 step-time 0.24s wps 23.71K ppl 103.39 gN 2.92 bleu 0.90, Mon Jan 22 19:50:52 2018
+  step 2000 lr 1 step-time 0.24s wps 23.59K ppl 99.67 gN 2.83 bleu 0.90, Mon Jan 22 19:51:16 2018
